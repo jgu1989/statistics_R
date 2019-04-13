@@ -282,7 +282,8 @@ Is this proportion exactly equal to the confidence level? If not, explain why.
 </ol>
 ```{r find-99-perc-crit-val}
 # type your code for the Question 5 here, and Knit
-
+z_star_99 <- qnorm(0.995)
+z_star_99
 ```
 
 <div id="exercise">
